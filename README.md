@@ -17,34 +17,6 @@ To create a Birthday card using HTML and CSS
 ## CODE:
 
 ### BIRTHDAY.HTML
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <link href='https://fonts.googleapis.com/css?family=Merienda' rel='stylesheet'>
-    <style>
-        body {
-         font-family: 'Merienda';
-         font-size: 22px;
-         color: #58a287;
-        }
-    </style>
-    <title>Birthday Greeting</title>
-</head>
-<body background="bg2.png" style="background-size: 100%;">
-    <div style="border:2px solid #932269; margin-top:25px; margin-left: 430px; margin-right: 430px;"> 
-    <img src="banner.png" height="80" width="655">
-    <center><h1>HAPPY<br>19<sup>th</sup><br>BIRTHDAY</h1></center>
-    <center><img src="cake.png" height="250"></center>
-    <center>
-    <a href="birthday2.html"><button type="button"><img src="balloonclick.png" height="50" width="50" /></button></a>
-    </center>
-    </div>
-</body>
-</html>
-
-
-### BIRTHDAY2.HTML
 ```
 <!DOCTYPE html>
 <html>
